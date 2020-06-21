@@ -1,0 +1,12 @@
+# Python
+*.pyc
+.mypy_cache
+
+# JS
+node_modules/
+build/
+
+
+# misc
+.DS_Store
+._.DS_Store
